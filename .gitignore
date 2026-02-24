@@ -1,23 +1,41 @@
+# Prerequisites
+*.d
 
-# Build directories
-obj/
-testobj/
-bin/
-testbin/
-lib/
-htmlcov/
-
-#Coverage files
-*.gcda
-*.gcno
-*.gcov
-
-# Compiled artifacts
+# Compiled Object files
+*.slo
+*.lo
 *.o
-*.out
+*.obj
 
-#Mac OS / editor junk
-.DS_Store
-*~
-.vscode/
-.idea/
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
+*.ilk
+
+# Debugger Files
+*.pdb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# debug information files
+*.dwo
