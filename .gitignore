@@ -1,0 +1,23 @@
+
+# Build directories
+obj/
+testobj/
+bin/
+testbin/
+lib/
+htmlcov/
+
+#Coverage files
+*.gcda
+*.gcno
+*.gcov
+
+# Compiled artifacts
+*.o
+*.out
+
+#Mac OS / editor junk
+.DS_Store
+*~
+.vscode/
+.idea/
