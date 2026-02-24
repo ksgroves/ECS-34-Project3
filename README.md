@@ -1,5 +1,6 @@
 # Project 3 ReadME
-Kyle Groves 922241439
+Student 1: Kyle Groves (922241439)
+
 Was unable to find partner
 
 ## Project Status
